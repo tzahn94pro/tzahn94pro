@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on my new projects. 
 - 📫 How to reach me: please use my Mail address
 - 😄 Pronouns: he/him
-- ⚡ Fun fact:I love to hear music while it's to create a New Programme. 
+- ⚡ Fun fact:I love to hear music while it's time to create a New Programme. 
 
 <!---
 tzahn94pro/tzahn94pro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
