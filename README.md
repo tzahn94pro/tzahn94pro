@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @tzahn94pro
+- 👋 Hi, I’m @tzahn94
 - 👀 I’m interested in programming, science, comics and nature.
-- 🌱 I’m currently learning CSS3 stuff.
 - 💞️ I’m looking to collaborate on my new projects. 
 - 📫 How to reach me: please use my Mail address
 - 😄 Pronouns: he/him
