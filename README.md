@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tzahn94
+- 👋 Hi, I’m Tobi.
 - 👀 I’m interested in programming, science, comics and nature.
 - 💞️ I’m looking to collaborate on my new projects. 
 - 📫 How to reach me: please use my Mail address
